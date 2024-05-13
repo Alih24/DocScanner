@@ -1,0 +1,29 @@
+-- Merging decision tree log ---
+manifest
+ADDED from G:\DocScanner\DocScanner\openCVLibrary310\src\main\AndroidManifest.xml:2:1-8:12
+INJECTED from G:\DocScanner\DocScanner\openCVLibrary310\src\main\AndroidManifest.xml:2:1-8:12
+INJECTED from G:\DocScanner\DocScanner\openCVLibrary310\src\main\AndroidManifest.xml:2:1-8:12
+	package
+		ADDED from G:\DocScanner\DocScanner\openCVLibrary310\src\main\AndroidManifest.xml:3:7-27
+		INJECTED from G:\DocScanner\DocScanner\openCVLibrary310\src\main\AndroidManifest.xml
+		INJECTED from G:\DocScanner\DocScanner\openCVLibrary310\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from G:\DocScanner\DocScanner\openCVLibrary310\src\main\AndroidManifest.xml:5:7-34
+	xmlns:android
+		ADDED from G:\DocScanner\DocScanner\openCVLibrary310\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from G:\DocScanner\DocScanner\openCVLibrary310\src\main\AndroidManifest.xml:4:7-33
+uses-sdk
+ADDED from G:\DocScanner\DocScanner\openCVLibrary310\src\main\AndroidManifest.xml:7:5-47
+INJECTED from G:\DocScanner\DocScanner\openCVLibrary310\src\main\AndroidManifest.xml:7:5-47
+INJECTED from G:\DocScanner\DocScanner\openCVLibrary310\src\main\AndroidManifest.xml:7:5-47
+INJECTED from G:\DocScanner\DocScanner\openCVLibrary310\src\main\AndroidManifest.xml:7:5-47
+INJECTED from G:\DocScanner\DocScanner\openCVLibrary310\src\main\AndroidManifest.xml:7:5-47
+	android:targetSdkVersion
+		ADDED from G:\DocScanner\DocScanner\openCVLibrary310\src\main\AndroidManifest.xml:7:15-44
+		INJECTED from G:\DocScanner\DocScanner\openCVLibrary310\src\main\AndroidManifest.xml
+		INJECTED from G:\DocScanner\DocScanner\openCVLibrary310\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from G:\DocScanner\DocScanner\openCVLibrary310\src\main\AndroidManifest.xml
+		ADDED from G:\DocScanner\DocScanner\openCVLibrary310\src\main\AndroidManifest.xml:7:5-47
+		INJECTED from G:\DocScanner\DocScanner\openCVLibrary310\src\main\AndroidManifest.xml

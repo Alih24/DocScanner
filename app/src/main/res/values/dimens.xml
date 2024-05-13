@@ -1,0 +1,12 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+
+    <!-- Main activity -->
+    <dimen name="card_view_height">130dp</dimen>
+    <dimen name="main_text_size">17sp</dimen>
+
+    <!-- Knife activity -->
+    <dimen name="scanPadding">8dp</dimen>
+</resources>

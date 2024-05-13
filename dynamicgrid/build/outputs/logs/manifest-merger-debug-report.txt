@@ -1,0 +1,29 @@
+-- Merging decision tree log ---
+manifest
+ADDED from G:\DocScanner\DocScanner\dynamicgrid\AndroidManifest.xml:2:1-9:12
+INJECTED from G:\DocScanner\DocScanner\dynamicgrid\AndroidManifest.xml:2:1-9:12
+INJECTED from G:\DocScanner\DocScanner\dynamicgrid\AndroidManifest.xml:2:1-9:12
+	package
+		ADDED from G:\DocScanner\DocScanner\dynamicgrid\AndroidManifest.xml:3:11-44
+		INJECTED from G:\DocScanner\DocScanner\dynamicgrid\AndroidManifest.xml
+		INJECTED from G:\DocScanner\DocScanner\dynamicgrid\AndroidManifest.xml
+	android:versionName
+		ADDED from G:\DocScanner\DocScanner\dynamicgrid\AndroidManifest.xml:5:11-36
+	xmlns:android
+		ADDED from G:\DocScanner\DocScanner\dynamicgrid\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from G:\DocScanner\DocScanner\dynamicgrid\AndroidManifest.xml:4:11-34
+uses-sdk
+ADDED from G:\DocScanner\DocScanner\dynamicgrid\AndroidManifest.xml:7:5-46
+INJECTED from G:\DocScanner\DocScanner\dynamicgrid\AndroidManifest.xml:7:5-46
+INJECTED from G:\DocScanner\DocScanner\dynamicgrid\AndroidManifest.xml:7:5-46
+INJECTED from G:\DocScanner\DocScanner\dynamicgrid\AndroidManifest.xml:7:5-46
+INJECTED from G:\DocScanner\DocScanner\dynamicgrid\AndroidManifest.xml:7:5-46
+	android:targetSdkVersion
+		ADDED from G:\DocScanner\DocScanner\dynamicgrid\AndroidManifest.xml:7:15-44
+		INJECTED from G:\DocScanner\DocScanner\dynamicgrid\AndroidManifest.xml
+		INJECTED from G:\DocScanner\DocScanner\dynamicgrid\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from G:\DocScanner\DocScanner\dynamicgrid\AndroidManifest.xml
+		ADDED from G:\DocScanner\DocScanner\dynamicgrid\AndroidManifest.xml:7:5-46
+		INJECTED from G:\DocScanner\DocScanner\dynamicgrid\AndroidManifest.xml

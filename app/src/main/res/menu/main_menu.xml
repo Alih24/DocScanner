@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_home"
+            android:title="Home"
+            android:icon="@drawable/ic_baseline_home_24"/>
+
+        <item
+            android:id="@+id/nav_doc"
+            android:title="Document Manager"
+            android:icon="@drawable/ic_baseline_insert_drive_file_24"/>
+
+        <item
+            android:id="@+id/nav_pdf"
+            android:title="PDF Manager"
+            android:icon="@drawable/i_pdf"/>
+
+
+        <item
+            android:id="@+id/nav_text"
+            android:title="Extract text"
+            android:icon="@drawable/ic_baseline_text_rotate_vertical_24"/>
+
+    </group>
+
+    <item android:title="Donation">
+
+        <menu>
+
+            <group android:checkableBehavior="single">
+
+                <item
+                    android:id="@+id/nav_dona"
+                    android:title="Donate us!"
+                    android:icon="@drawable/ic_baseline_attach_money_24"/>
+
+
+            </group>
+
+        </menu>
+
+    </item>
+
+
+
+</menu>
